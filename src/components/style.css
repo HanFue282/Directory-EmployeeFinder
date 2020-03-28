@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: tan
+}
+
+
+.header {
+    text-align: center;
+    color: lightcoral;
+    background-color: darkmagenta;
+    height: 200px;
+    padding-top: 40px;
+    margin-bottom: 0;
+}
+
+.sub-header {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+    width: 180px
+}
+
+#labelBar {
+    height: 50px;
+    padding-top: 10px;
+}
