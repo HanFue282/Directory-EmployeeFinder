@@ -38,6 +38,7 @@ render() {
            <br></br>
            <h3>Look for employee in the search bar!</h3>
         </Header>
+        
        <SubHeader>
            <div className="container" id="labelBar">
                <ul>
